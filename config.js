@@ -14,7 +14,7 @@ global.APIs = {
 
 // Apikey
 global.APIKeys = {
-	'https://zenzapis.xyz': 'Your Apikey',
+	'https://zenzapis.xyz': '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',
 }
 
 // Other
@@ -37,7 +37,7 @@ global.options = {
     mute: false,
     public: true
 }
-global.owner = ["6288292024190","6285784918313"]
+global.owner = ["6281274016808","6281274016808"]
 global.sessionName = "hisoka"
 global.packname = "hisoka-waweb.js"
 global.author = "Dika Ardnt."
